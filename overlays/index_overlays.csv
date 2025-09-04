@@ -1,0 +1,31 @@
+target,lag,pair,figure
+target_31,1,LME_ZS_Close - US_Stock_GLD_adj_close,overlays\vis_overlay_target_31.png
+target_4,1,LME_AH_Close - JPX_Gold_Standard_Futures_Close,overlays\vis_overlay_target_4.png
+target_2,1,LME_CA_Close - LME_ZS_Close,overlays\vis_overlay_target_2.png
+target_3,1,LME_AH_Close - LME_ZS_Close,overlays\vis_overlay_target_3.png
+target_93,1,LME_AH_Close - US_Stock_XLE_adj_close,overlays\vis_overlay_target_93.png
+target_98,1,LME_CA_Close - US_Stock_XOM_adj_close,overlays\vis_overlay_target_98.png
+target_102,1,LME_ZS_Close - US_Stock_IEF_adj_close,overlays\vis_overlay_target_102.png
+target_68,1,FX_EURUSD - JPX_Gold_Standard_Futures_Close,overlays\vis_overlay_target_68.png
+target_19,1,JPX_Gold_Standard_Futures_Close - FX_USDJPY,overlays\vis_overlay_target_19.png
+target_0,1,US_Stock_VT_adj_close,overlays\vis_overlay_target_0.png
+target_78,1,US_Stock_CLF_adj_close - JPX_Platinum_Standard_Futures_Close,overlays\vis_overlay_target_78.png
+target_40,1,LME_CA_Close - US_Stock_HL_adj_close,overlays\vis_overlay_target_40.png
+target_82,1,JPX_Gold_Standard_Futures_Close - US_Stock_X_adj_close,overlays\vis_overlay_target_82.png
+target_67,1,JPX_Gold_Standard_Futures_Close - US_Stock_HAL_adj_close,overlays\vis_overlay_target_67.png
+target_85,1,JPX_Gold_Standard_Futures_Close - US_Stock_CVE_adj_close,overlays\vis_overlay_target_85.png
+target_193,2,LME_PB_Close - US_Stock_CLF_adj_close,overlays\vis_overlay_target_193.png
+target_195,2,US_Stock_HL_adj_close - LME_AH_Close,overlays\vis_overlay_target_195.png
+target_140,2,JPX_Platinum_Standard_Futures_Close - US_Stock_CCJ_adj_close,overlays\vis_overlay_target_140.png
+target_173,2,US_Stock_X_adj_close - LME_PB_Close,overlays\vis_overlay_target_173.png
+target_147,2,JPX_Platinum_Standard_Futures_Close - US_Stock_ALB_adj_close,overlays\vis_overlay_target_147.png
+target_276,3,JPX_Gold_Standard_Futures_Close - US_Stock_HL_adj_close,overlays\vis_overlay_target_276.png
+target_267,3,LME_AH_Close - US_Stock_CLF_adj_close,overlays\vis_overlay_target_267.png
+target_261,3,JPX_Platinum_Standard_Futures_Close - US_Stock_FCX_adj_close,overlays\vis_overlay_target_261.png
+target_247,3,JPX_Platinum_Standard_Futures_Close - US_Stock_CVE_adj_close,overlays\vis_overlay_target_247.png
+target_244,3,US_Stock_DVN_adj_close - LME_PB_Close,overlays\vis_overlay_target_244.png
+target_329,4,JPX_Platinum_Standard_Futures_Close - US_Stock_CLF_adj_close,overlays\vis_overlay_target_329.png
+target_393,4,US_Stock_HL_adj_close - LME_AH_Close,overlays\vis_overlay_target_393.png
+target_411,4,LME_AH_Close - US_Stock_CVE_adj_close,overlays\vis_overlay_target_411.png
+target_404,4,JPX_Gold_Standard_Futures_Close - US_Stock_X_adj_close,overlays\vis_overlay_target_404.png
+target_396,4,LME_AH_Close - US_Stock_OKE_adj_close,overlays\vis_overlay_target_396.png
